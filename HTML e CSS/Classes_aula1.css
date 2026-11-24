@@ -1,0 +1,23 @@
+.titulo {
+    color: rgb(60, 192, 192);
+    background-color: antiquewhite;
+}
+
+h3 {
+    color: black;
+    background-color: blueviolet;
+}
+
+.paragrafo1 {
+    color: aquamarine;
+    background-color: bisque;
+}
+
+.paragrafo2 {
+    color:white;
+    background-color: white;
+}
+
+body {
+    background-color: blanchedalmond;
+}

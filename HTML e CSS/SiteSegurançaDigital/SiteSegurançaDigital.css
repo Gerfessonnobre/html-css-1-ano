@@ -1,0 +1,149 @@
+.Corpo {
+    background-color: #0D1B2A;
+}
+
+.DIV1 {
+    background-color: #00E676;
+    font-family: 'Courier New';
+}
+
+.h1_1 {
+    font-size: 80px;
+    text-align: center;
+    color: #0D1B2A
+}
+
+.p_1 {
+    text-align: center;
+    font-size: 20px;
+    color: #0D1B2A;
+    font-family: Verdana;
+    font-style: italic;
+}
+
+.span_h1 {
+    color: #D50000;
+    font-weight: bold;
+}
+
+.DIV2 {
+    background-color: #1B263B;
+    font-family: 'Courier New';
+}
+
+.h1_2 {
+    font-size: 40px;
+    text-align: left;
+    color: #00E676;
+    font-weight: bold;
+}
+
+.p_2 {
+    font-size: 20px;
+    text-align: left;
+    color: #E0E1DD;
+
+}
+
+.BarreiraForte {
+    color: #00E676;
+    font-weight: bold;
+}
+
+.Fraca {
+    color: #FF5252;
+    font-weight: bold;
+}
+
+.Longa {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.DIV3 {
+    font-family: 'Courier New';
+    background-color: #3D1A1A;
+}
+
+.h1_3 {
+    font-size: 40px;
+    text-align: left;
+    color: #FF5252;
+    font-weight: bold;
+}
+
+.p_3 {
+    font-size: 20px;
+    color: #E0E1DD;
+    text-align: left;
+}
+
+.Enganar {
+    color: #FFD600;
+    font-weight: bold;
+}
+
+.DIV4 {
+    background-color: #FFFDE7;
+}
+
+.p_4 {
+    font-family: Arial;
+    font-size: 22px;
+    color: #000000;
+    text-align: left;
+}
+
+.Urgente {
+    color: #D50000;
+    font-weight: bold;
+}
+
+.Agora_mesmo {
+    text-align: bold;
+}
+
+.Clique_aqui {
+    color: #1565C0;
+    font-style: italic;
+}
+
+.Urgencia {
+    color: #FF5252;
+    font-weight: bold;
+}
+
+.DIV5 {
+    background-color: #0D1B2A;
+    font-family: 'Courier New';
+}
+
+.h1_5 {
+    font-size: 40px;
+    text-align: left;
+    color: #00E676;
+    font-weight: bold;
+}
+
+.p_5 {
+    font-size: 20px;
+    text-align: left;
+    color: #E0E1DD;
+}
+
+    .DIV6 {
+        background-color: #FFD600;
+    }
+
+    .p_6 {
+        color: #0D1B2A;
+        text-align: center;
+        font-style: italic;
+        font-family: Arial;
+        font-size: 20px;
+    }
+
+    .Disciplina {
+        color: #D50000;
+        font-weight: bold;
+    }
